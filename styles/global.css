@@ -32,3 +32,10 @@ a {
 img {
   width: 100%;
 }
+
+address {
+  display: block;
+  font-style: normal;
+  unicode-bidi: isolate;
+}
+
